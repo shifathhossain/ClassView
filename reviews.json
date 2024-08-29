@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Johnson's lectures are engaging and informative. Her passion for biology is contagious!"
+      },
+      {
+        "professor": "Prof. Michael Smith",
+        "subject": "Mathematics",
+        "stars": 3,
+        "review": "Prof. Smith knows his subject well, but can sometimes be unclear in explanations."
+      },
+      {
+        "professor": "Dr. Sarah Lee",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Absolutely brilliant! Dr. Lee makes complex concepts easy to understand and applies them to real-life situations."
+      },
+      {
+        "professor": "Prof. David Brown",
+        "subject": "History",
+        "stars": 4,
+        "review": "Prof. Brown's enthusiasm for history is evident. His classes are always interesting and thought-provoking."
+      },
+      {
+        "professor": "Dr. Jessica Taylor",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "Dr. Taylor's course is challenging, and her grading can be harsh. More office hours would be helpful."
+      },
+      {
+        "professor": "Prof. Robert Wilson",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "Prof. Wilson's deep knowledge and passion for literature make every class a joy to attend."
+      },
+      {
+        "professor": "Dr. Lisa Chen",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Dr. Chen is great at explaining complex programming concepts. Her projects are challenging but rewarding."
+      },
+      {
+        "professor": "Prof. James Anderson",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Prof. Anderson's lectures can be dry, but he's always willing to help during office hours."
+      },
+      {
+        "professor": "Dr. Maria Garcia",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Dr. Garcia's classes are eye-opening. She encourages critical thinking and lively discussions."
+      },
+      {
+        "professor": "Prof. Thomas White",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Prof. White brings real-world examples into his lectures, making economic theories more accessible."
+      },
+      {
+        "professor": "Dr. Karen Mitchell",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Mitchell's passion for art is infectious. Her lectures are like guided tours through time."
+      },
+      {
+        "professor": "Prof. Christopher Lee",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Prof. Lee knows his subject well, but can sometimes get sidetracked during lectures."
+      },
+      {
+        "professor": "Dr. Elizabeth Turner",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Dr. Turner's fieldwork experiences add a unique perspective to her engaging lectures."
+      },
+      {
+        "professor": "Prof. Richard Harris",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Prof. Harris challenges students to think deeply. His Socratic method is both frustrating and rewarding."
+      },
+      {
+        "professor": "Dr. Amanda Foster",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. Foster's passion for the environment is clear. Her field trips are the highlight of the course."
+      },
+      {
+        "professor": "Prof. Daniel Kim",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Prof. Kim is knowledgeable but his pacing can be too fast at times. Extra practice problems would be helpful."
+      },
+      {
+        "professor": "Dr. Olivia Martinez",
+        "subject": "Neuroscience",
+        "stars": 5,
+        "review": "Dr. Martinez makes neuroscience fascinating. Her lectures are clear, and her enthusiasm is contagious."
+      },
+      {
+        "professor": "Prof. William Thompson",
+        "subject": "Music Theory",
+        "stars": 4,
+        "review": "Prof. Thompson's practical approach to music theory is refreshing. His classes are both fun and informative."
+      },
+      {
+        "professor": "Dr. Rachel Green",
+        "subject": "Genetics",
+        "stars": 3,
+        "review": "Dr. Green's course is challenging but fair. More interactive elements in class would be beneficial."
+      },
+      {
+        "professor": "Prof. Steven Clark",
+        "subject": "Business Ethics",
+        "stars": 4,
+        "review": "Prof. Clark brings interesting case studies to class, promoting thoughtful discussions on ethical dilemmas."
+      }
+    ]
+  }
